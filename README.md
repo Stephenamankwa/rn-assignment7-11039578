@@ -52,7 +52,8 @@ This project is a mobile application designed to manage products and allow users
 - **Add to Cart**: Users can add products to their cart from both the HomeScreen and ProductDetailScreen.
 - **Remove from Cart**: Users can remove products from their cart in the CartScreen.
 - **View Cart**: Users can view the items in their cart
-![WhatsApp Image 2024-07-12 at 21 36 36_e067d97a](https://github.com/user-attachments/assets/f38d6a78-d8a3-4046-801f-2b40f0![WhatsApp Image 2024-07-12 at 21 37 27_ab1f668e](https://github.com/user-attachments/assets/73c45b49-2109-4d00-9f50-49acee23190e)
+![WhatsApp Image 2024-07-12 at 21 36 36_e067d97a](https://github.com/user-attachments/assets/f38d6a78-d8a3-4046-801f-2b40f0
+![WhatsApp Image 2024-07-12 at 21 37 27_ab1f668e](https://github.com/user-attachments/assets/73c45b49-2109-4d00-9f50-49acee23190e)
 684152)
 ![WhatsApp Image 2024-07-12 at 21 38 05_ab28d30d](https://github.com/user-attachments/assets/8eeec91e-2d1a-4f2f-b0d9-f8d9ab6e02b2)
 

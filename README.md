@@ -23,7 +23,8 @@ This project is a mobile application designed to manage products and allow users
 ## Usage
 
 ### HomeScreen
-- Displays a list of products fetched from the external API.
+- Displays a list of products fetched from the ex
+ternal API.
 - Each product has an "Add to Cart" button to add the product to the cart.
 
 ### ProductDetailScreen
@@ -53,7 +54,7 @@ This project is a mobile application designed to manage products and allow users
 - **Add to Cart**: Users can add products to their cart from both the HomeScreen and ProductDetailScreen.
 - **Remove from Cart**: Users can remove products from their cart in the CartScreen.
 - **View Cart**: Users can view the items in their cart
-y![WhatsApp Image 2024-07-12 at 21 36 36_e067d97a](https://github.com/user-attachments/assets/24cf0804-1937-414f-b933-2221ce5f52df)
+![WhatsApp Image 2024-07-12 at 21 37 32_1a036ac6](https://github.com/user-attachments/assets/039f426a-d59d-4c2a-ae19-74282b24b705)
 
 ![WhatsApp Image 2024-07-12 at 21 37 27_ab1f668e](https://github.com/user-attachments/assets/73c45b49-2109-4d00-9f50-49acee23190e)
 684152)
